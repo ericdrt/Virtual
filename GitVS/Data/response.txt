@@ -1,6 +1,6 @@
 {
 	
-	"result" : "NOVA ATUALIZAÇÃO....",
+	"result" : "TESTE DE SERVIÇO VIRTUAL....",
 	"success" : true,
 	"name" : "Teste",
 	"number" : 123
