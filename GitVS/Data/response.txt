@@ -1,5 +1,7 @@
 {
 	
-	"result" : "Mais um teste de atualização pelo GitHub....",
-	"success" : true
+	"result" : "NOVA ATUALIZAÇÃO....",
+	"success" : true,
+	"name" : "Teste",
+	"number" : 123
 }
