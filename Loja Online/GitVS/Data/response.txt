@@ -1,7 +1,7 @@
 {
 	
-	"result" : "ATUALIZANDO NOVAMENTE....",
+	"result" : "ATUALIZANDO arquivo response.txt direto no repositório remoto (GitHub Virtual)....",
 	"success" : true,
-	"name" : "**** TESTE NO GITHUB ******,
-	"number" : 901234354546566
+	"name" : "**** GITHUB ******,
+	"number" : 1234567890
 }
