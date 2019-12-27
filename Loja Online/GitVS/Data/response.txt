@@ -1,7 +1,7 @@
 {
 	
-	"result" : "ATUALIZANDO ARQUIVO...",
+	"result" : "Atualizando arquivo direto no repositório....",
 	"success" : true,
-	"name" : "Teste 2",
+	"name" : "Verificação no GitHub",
 	"number" : 456
 }
